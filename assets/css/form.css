@@ -33,7 +33,6 @@ form {
   display: flex;
   flex-flow: column wrap;
   position: relative;
-  border-top: double 1rem;
 }
 
 form > *:not(label) {

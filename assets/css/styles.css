@@ -67,12 +67,15 @@ ul {
 
 * {
   transition: background-color ease-in .5s;
-  background-color: var(--light-accent);
 }
 
 /*
   Tags
 */
+body {
+  background-color: var(--light-accent);
+}
+
 header {
   display: flex;
   flex-flow: row wrap;
