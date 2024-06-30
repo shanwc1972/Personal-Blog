@@ -14,9 +14,13 @@ N/A
 Website can be reached by https://shanwc1972.github.io/Personal-Blog.
 
 
-The following image shows the web application's appearance and functionality:
+The following images shows the web application's appearance and functionality:
 
+![Landing page](https://github.com/shanwc1972/Personal-Blog/assets/166612646/4f0f8fa1-dec7-4f4c-b923-040bcc56e96b)
 
+![Blog Page](https://github.com/shanwc1972/Personal-Blog/assets/166612646/6bdb8b74-ec8d-4d3a-804f-335f1c751c03)
+
+![Blog page in night mode](https://github.com/shanwc1972/Personal-Blog/assets/166612646/c6e9e3df-4d5f-4141-9b9a-6b763715f285)
 
 
 
